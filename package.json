@@ -1,0 +1,21 @@
+{
+  "name": "getuid",
+  "version": "0.0.1",
+  "description": "Get the UID of a user by their username.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:olalonde/getuid.git"
+  },
+  "keywords": [
+    "unix",
+    "process",
+    "uid",
+    "getuid"
+  ],
+  "author": "Olivier Lalonde <olalonde@gmail.com>",
+  "license": "BSD"
+}
